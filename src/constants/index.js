@@ -5,7 +5,7 @@ import project2 from "../assets/img/porto/hima.png";
 // import skills
 import skills1 from "../assets/img/skills/HTML.png";
 import skills2 from "../assets/img/skills/Css.png";
-import skills3 from "../assets/img/skills/JavaScript.png";
+import skills3 from "../assets/img/skills/Javascript.png";
 import skills4 from "../assets/img/skills/Vuejs.png";
 import skills5 from "../assets/img/skills/Reactjs.png";
 import skills6 from "../assets/img/skills/Tailwind.png";
