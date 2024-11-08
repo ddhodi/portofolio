@@ -9,7 +9,7 @@ const TypingAnimation = () => {
     // Initialize Typed.js on the ref element
     const typed = new Typed(el.current, {
       strings: [
-        "Frontend Development",
+        "Frontend Developer",
       ],
       loop: true,
       typeSpeed: 100,
