@@ -24,7 +24,7 @@ const Contact = () => {
       <div className="absolute pt-72 tablet:pt-56 ">
         <ButtonCv
           label="Download CV"
-          url="https://drive.google.com/file/d/10Q7dr2BYfmRmM9QOsLh9NqP_hmXPJ6ax/view?usp=sharing"
+          url="https://drive.google.com/file/d/12rsQlett04PqtqmorLWj7whnDsuJJwkv/view?usp=sharing"
         />
       </div>
       <div className="absolute pt-[140px] tablet:pt-6 tablet:ml-[240px]">
