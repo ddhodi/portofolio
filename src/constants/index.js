@@ -1,7 +1,7 @@
 // project import
 import project1 from "../assets/img/porto/adcom.png";
 import project2 from "../assets/img/porto/hima.png";
-import project3 from "../assets/img/porto/hima.png";
+import project3 from "../assets/img/porto/karir.png";
 
 // import skills
 import skills1 from "../assets/img/skills/HTML.png";
