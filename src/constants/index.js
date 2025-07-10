@@ -1,6 +1,7 @@
 // project import
 import project1 from "../assets/img/porto/adcom.png";
 import project2 from "../assets/img/porto/hima.png";
+import project3 from "../assets/img/porto/hima.png";
 
 // import skills
 import skills1 from "../assets/img/skills/HTML.png";
@@ -36,36 +37,12 @@ export const PROJECTS = [
     link: "https://himatif-stmik.netlify.app/",
   },
   {
-    title: "Website Profile UKM Adcom",
-    image: project1,
+    title: "Karir Cirebon",
+    image: project3,
     description:
-      "development of a profile website as an introduction to UKM ADCOM in a digital profile.",
-      technologies: ["Vue.js", "Tailwind CSS"],
-    link: "https://adcom-stmikikmi.netlify.app/",
-  },
-  {
-    title: "UKM Website Profile",
-    image: project2,
-    description:
-      "development of a profile website as an introduction to UKM ADCOM in a digital profile.",
-    technologies: ["Vue.js", "Tailwind CSS"],
-    link: "https://himatif-stmik.netlify.app/",
-  },
-  {
-    title: "Website Profile UKM Adcom",
-    image: project1,
-    description:
-      "development of a profile website as an introduction to UKM ADCOM in a digital profile.",
-      technologies: ["Vue.js", "Tailwind CSS"],
-    link: "https://adcom-stmikikmi.netlify.app/",
-  },
-  {
-    title: "UKM Website Profile",
-    image: project2,
-    description:
-      "development of a profile website as an introduction to UKM ADCOM in a digital profile.",
-    technologies: ["Vue.js", "Tailwind CSS"],
-    link: "https://himatif-stmik.netlify.app/",
+      "website project developed for job search.",
+      technologies: ["Bootstrap"],
+    link: "https://ddhodi.github.io/karircirebon.github.io/",
   },
 ];
 
@@ -114,35 +91,11 @@ export const COMPONENTS = [
     link: "https://adcom-stmikikmi.netlify.app/",
   },
   {
-    title: "UKM Website Profile",
-    image: project2,
+    title: "Karir Cirebon",
+    image: project3,
     description:
-      "development of a profile website as an introduction to UKM ADCOM in a digital profile.",
-    technologies: ["Vue.js", "Tailwind CSS"],
-    link: "https://himatif-stmik.netlify.app/",
-  },
-  {
-    title: "Website Profile UKM Adcom",
-    image: project1,
-    description:
-      "development of a profile website as an introduction to UKM ADCOM in a digital profile.",
-      technologies: ["Vue.js", "Tailwind CSS"],
-    link: "https://adcom-stmikikmi.netlify.app/",
-  },
-  {
-    title: "UKM Website Profile",
-    image: project2,
-    description:
-      "development of a profile website as an introduction to UKM ADCOM in a digital profile.",
-    technologies: ["Vue.js", "Tailwind CSS"],
-    link: "https://himatif-stmik.netlify.app/",
-  },
-  {
-    title: "Website Profile UKM Adcom",
-    image: project1,
-    description:
-      "development of a profile website as an introduction to UKM ADCOM in a digital profile.",
-      technologies: ["Vue.js", "Tailwind CSS"],
-    link: "https://adcom-stmikikmi.netlify.app/",
+      "website project developed for job search.",
+      technologies: ["Bootstrap"],
+    link: "https://ddhodi.github.io/karircirebon.github.io/",
   },
 ];
