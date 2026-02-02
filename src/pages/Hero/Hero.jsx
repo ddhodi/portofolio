@@ -23,7 +23,7 @@ const Hero = () => {
         <div className="pt-4 pl-2 tablet:pt-6">
           <ButtonLink
             label="Download CV"
-            url="https://drive.google.com/file/d/1ukfCeVtIpo941bu00MW8eDnwuyDLPR2A/view?usp=sharing"
+            url="https://drive.google.com/file/d/1roiYIwHJXCaoJyT_uJ9Y-iUuec0UCVQd/view?usp=sharing"
           />
         </div>
       </div>
