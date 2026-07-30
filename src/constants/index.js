@@ -2,6 +2,7 @@
 import project1 from "../assets/img/porto/adcom.png";
 import project2 from "../assets/img/porto/hima.png";
 import project3 from "../assets/img/porto/karir.png";
+import project4 from "../assets/img/porto/kraton-pos.png";
 
 // import skills
 import skills1 from "../assets/img/skills/HTML.png";
@@ -44,6 +45,14 @@ export const PROJECTS = [
       technologies: ["Bootstrap"],
     link: "https://ddhodi.github.io/karircirebon.github.io/",
   },
+  {
+    title: "KratonTech POS",
+    image: project4,
+    description:
+      "KratonTech POS intuitive mobile Point of Sale system designed to streamline sales, track inventory, and grow your MSME effortlessly.",
+      technologies: ["React Native", "SQLite", "Google OAuth"],
+    link: "https://drive.google.com/file/d/11NqpEu_qYXkSy0KgPKO4qEUqKZf93RPr/view?usp=sharing",
+  },
 ];
 
 export const SKILLS = [
@@ -70,32 +79,5 @@ export const SKILLS = [
   {
     title: "Tailwind Css",
     image: skills6,
-  },
-];
-
-export const COMPONENTS = [
-  {
-    title: "UKM Website Profile",
-    image: project2,
-    description:
-      "development of a profile website as an introduction to UKM ADCOM in a digital profile.",
-    technologies: ["Vue.js", "Tailwind CSS"],
-    link: "https://himatif-stmik.netlify.app/",
-  },
-  {
-    title: "Website Profile UKM Adcom",
-    image: project1,
-    description:
-      "development of a profile website as an introduction to UKM ADCOM in a digital profile.",
-      technologies: ["Vue.js", "Tailwind CSS"],
-    link: "https://adcom-stmikikmi.netlify.app/",
-  },
-  {
-    title: "Karir Cirebon",
-    image: project3,
-    description:
-      "website project developed for job search.",
-      technologies: ["Bootstrap"],
-    link: "https://ddhodi.github.io/karircirebon.github.io/",
   },
 ];
