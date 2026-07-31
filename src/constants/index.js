@@ -15,10 +15,7 @@ import skills6 from "../assets/img/skills/Tailwind.png";
 // import contact
 
 
-export const ABOUT_TEXT = `Fresh graduate with a keen interest in front-end development and enthusiastic 
-about new challenges. Having basic knowledge in HTML, CSS, and JavaScript, and experience using Vuejs, Reactjs, and 
-Tailwind CSS Frameworks for styling. Enjoying continuous learning process and always eager to develop skills, bring 
-fresh ideas, and contribute to innovative projects.`;
+export const ABOUT_TEXT = `Front-end developer who turns real business problems into working products. I've built and shipped a mobile POS app that a local store owner now uses daily, replacing a paid subscription tool, along with responsive web platforms using React.js, Vue.js, and Tailwind CSS for real clients. I focus on clean component architecture, offline-first design, and interfaces people actually enjoy using. Currently expanding into React Native and mobile development while staying hands-on with every project I take on.`;
 
 export const PROJECTS = [
   {
